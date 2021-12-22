@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-12-22T12:02:21.274+01:00
+  initializedAtString: 2021-12-22T11:05:45.016+01:00
+  entries:
+  - path: UnityLab/.DS_Store
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/.DS_Store
+    projectPath: ../.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/.gitignore
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/.gitignore
+    projectPath: ../.gitignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 'UnityLab/:'
+    fullPath: '/Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/:'
+    projectPath: '../:'
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/_Imports.razor
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/_Imports.razor
+    projectPath: ../BlazorMatchGame/_Imports.razor
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/App.razor
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/App.razor
+    projectPath: ../BlazorMatchGame/App.razor
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/Pages/Index.razor
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/Pages/Index.razor
+    projectPath: ../BlazorMatchGame/Pages/Index.razor
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/Program.cs
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/Program.cs
+    projectPath: ../BlazorMatchGame/Program.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/Properties/launchSettings.json
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/Properties/launchSettings.json
+    projectPath: ../BlazorMatchGame/Properties/launchSettings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/Shared/MainLayout.razor
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/Shared/MainLayout.razor
+    projectPath: ../BlazorMatchGame/Shared/MainLayout.razor
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/Shared/NavMenu.razor
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/Shared/NavMenu.razor
+    projectPath: ../BlazorMatchGame/Shared/NavMenu.razor
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/app.css
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/app.css
+    projectPath: ../BlazorMatchGame/wwwroot/css/app.css
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/bootstrap/bootstrap.min.css
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/bootstrap/bootstrap.min.css
+    projectPath: ../BlazorMatchGame/wwwroot/css/bootstrap/bootstrap.min.css
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/bootstrap/bootstrap.min.css.map
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/bootstrap/bootstrap.min.css.map
+    projectPath: ../BlazorMatchGame/wwwroot/css/bootstrap/bootstrap.min.css.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.eot
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.eot
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.eot
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.otf
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.otf
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.otf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.svg
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.svg
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.svg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.woff
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.woff
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/font/fonts/open-iconic.woff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/FONT-LICENSE
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/FONT-LICENSE
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/FONT-LICENSE
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/ICON-LICENSE
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/ICON-LICENSE
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/ICON-LICENSE
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/README.md
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/css/open-iconic/README.md
+    projectPath: ../BlazorMatchGame/wwwroot/css/open-iconic/README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/favicon.ico
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/favicon.ico
+    projectPath: ../BlazorMatchGame/wwwroot/favicon.ico
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/BlazorMatchGame/wwwroot/index.html
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/BlazorMatchGame/wwwroot/index.html
+    projectPath: ../BlazorMatchGame/wwwroot/index.html
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/UnityLab1/Assets/Scenes/SampleScene.unity
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/ArtifactDB
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/Artifacts/2a/2acffc3721d247c3faf7d24c24fb473b
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/Artifacts/2a/2acffc3721d247c3faf7d24c24fb473b
+    projectPath: Library/Artifacts/2a/2acffc3721d247c3faf7d24c24fb473b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/UnityLab1/Library/gfu/cache/branches.yaml
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/gfu/cache/gituser.yaml
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/SceneVisibilityState.asset
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Library/SourceAssetDB
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityLab/UnityLab1/Logs/AssetImportWorker0.log
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityLab/UnityLab1/Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Users/andresdefreitasmartinez/Projects/C#/HeadFirstCSharp/UnityLab/UnityLab1/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
