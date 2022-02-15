@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-12-22T11:47:09.441+01:00
-  initializedAtString: 2021-12-22T11:15:19.890+01:00
+  lastUpdatedAtString: 2022-02-15T09:44:51.100+01:00
+  initializedAtString: 2022-02-15T09:44:51.044+01:00
   localBranches:
   - name: master
-    tracking: origin/master
+    tracking: 
   remoteBranches:
-  - name: origin/HEAD
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/AndresDeFreitas/HeadFirstUnity.git
+    url: https://github.com/AndresDeFreitas/HeadFirstCSharp.git
     login: 
     user: 
     host: 
@@ -35,25 +35,25 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: origin
-        url: https://github.com/AndresDeFreitas/HeadFirstUnity.git
-      trackingBranch: master
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - HEAD
+      - master
     subKeyValues:
     - Values:
-      - name: HEAD
+      - name: master
         remote:
           name: origin
-          url: https://github.com/AndresDeFreitas/HeadFirstUnity.git
+          url: https://github.com/AndresDeFreitas/HeadFirstCSharp.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/AndresDeFreitas/HeadFirstUnity.git
+      url: https://github.com/AndresDeFreitas/HeadFirstCSharp.git
