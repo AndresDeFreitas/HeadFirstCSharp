@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-12-22T11:48:42.263+01:00
-  initializedAtString: 2021-12-22T11:05:41.969+01:00
+  lastUpdatedAtString: 2022-02-15T08:42:55.135+01:00
+  initializedAtString: 2022-02-15T08:42:55.135+01:00
   currentGitRemote:
     name: origin
-    url: https://github.com/AndresDeFreitas/HeadFirstUnity.git
+    url: https://github.com/AndresDeFreitas/HeadFirstCSharp.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: origin/master
+    tracking: 
   currentConfigBranch:
     name: master
     remote:
-      name: origin
-      url: https://github.com/AndresDeFreitas/HeadFirstUnity.git
-    trackingBranch: master
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
-    url: https://github.com/AndresDeFreitas/HeadFirstUnity.git
+    url: https://github.com/AndresDeFreitas/HeadFirstCSharp.git
   currentHead: 
